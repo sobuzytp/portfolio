@@ -6,9 +6,9 @@ const translations = {
     hero: {
       hello: "আসসালামু আলাইকুম, আমি",
       name: "শহরুল ইসলাম",
-      roles: ["Web Developer", "React Learner", "Problem Solver"],
+      roles: ["Web Developer", "Python Developer", "Django Developer", "React Developer", "Problem Solver"],
       intro:
-        "আমি এমন ওয়েবসাইট বানাই যা দেখতে সুন্দর, সব ডিভাইসে ঠিকঠাক চলে এবং ব্যবহার করা সহজ। React দিয়ে প্রতিদিন নতুন কিছু শিখছি এবং বানাচ্ছি।",
+        "আমি এমন ওয়েবসাইট বানাই যা দেখতে সুন্দর, সব ডিভাইসে ঠিকঠাক চলে এবং ব্যবহার করা সহজ। React, Django, Python, PostgreSQL দিয়ে প্রতিদিন নতুন কিছু শিখছি এবং বানাচ্ছি।",
       cv: "সিভি ডাউনলোড",
       projects: "প্রজেক্ট দেখুন",
       location: "খুলনা, বাংলাদেশ",
@@ -16,23 +16,23 @@ const translations = {
     about: {
       title: "আমার সম্পর্কে",
       text:
-        "আমি শহরুল ইসলাম, খুলনার একজন ওয়েব ডেভেলপমেন্ট শিক্ষার্থী। ছোট ছোট আইডিয়াকে কাজের ওয়েব অ্যাপে রূপ দিতে আমার ভালো লাগে। কোড লিখি পরিষ্কার ও সহজ রাখার চেষ্টা করে, যেন অন্যরাও সহজে বুঝতে পারে।",
+        "আমি শাহরুল ইসলাম, খুলনার একজন ওয়েব ডেভেলপমেন্ট শিক্ষার্থী। আমি Python, Django, React, JavaScript, PostgreSQL, HTML, CSS শিখছি ও কাজ করছি। ছোট ছোট আইডিয়াকে কাজের ওয়েব অ্যাপে রূপ দিতে আমার ভালো লাগে। কোড লিখি পরিষ্কার ও সহজ রাখার চেষ্টা করে, যেন অন্যরাও সহজে বুঝতে পারে।",
       infoTitle: "প্রোফাইল তথ্য",
       info: [
         ["নাম", "শহরুল ইসলাম"],
         ["ইমেইল", "sobuzytp@gmail.com"],
         ["অবস্থান", "খুলনা, বাংলাদেশ"],
-        ["পেশা", "Web Developer"],
+        ["পেশা", "Python & React Developer"],
         ["ভাষা", "বাংলা, English"],
       ],
       eduTitle: "শিক্ষাগত যোগ্যতা",
       education: [
-        { place: "Web Development Course (React.js)", detail: "Batch 10 — চলমান" },
-        { place: "আপনার কলেজ / বিশ্ববিদ্যালয়ের নাম", detail: "আপনার ডিগ্রি ও পাসের বছর (এখানে এডিট করুন)" },
+        { place: "Web Development Course (Python, Django, React)", detail: "Batch 10 — চলমান" },
+        { place: "Ostad Platform", detail: "December 2026 পর্যন্ত চলবে" },
       ],
       goalTitle: "ক্যারিয়ার লক্ষ্য",
       goal:
-        "একজন দক্ষ Frontend/Full-stack ডেভেলপার হয়ে এমন প্রোডাক্ট বানানো যা মানুষের প্রতিদিনের কাজ সহজ করে, এবং একটি ভালো টিমের সাথে কাজ করে নিজের দক্ষতা বাড়ানো।",
+        "একজন দক্ষ Python Developer, Django Developer, React Developer হয়ে এমন প্রোডাক্ট বানানো যা মানুষের প্রতিদিনের কাজ সহজ করে, এবং একটি ভালো টিমের সাথে কাজ করে নিজের দক্ষতা বাড়ানো।",
     },
     skills: { title: "আমার দক্ষতা", subtitle: "যে টেকনোলজি দিয়ে আমি কাজ করি" },
     projects: {
@@ -75,9 +75,9 @@ const translations = {
     hero: {
       hello: "Hi, I'm",
       name: "Shaharul Islam",
-      roles: ["Web Developer", "React Learner", "Problem Solver"],
+      roles: ["Web Developer", "Python Developer", "Django Developer", "React Developer", "Problem Solver"],
       intro:
-        "I build websites that look good, work on every device and are easy to use. I'm learning React every day and turning what I learn into real projects.",
+        "I build websites that look good, work on every device and are easy to use. I'm learning React, Django, Python, PostgreSQL every day and turning what I learn into real projects.",
       cv: "Download CV",
       projects: "View Projects",
       location: "Khulna, Bangladesh",
@@ -85,23 +85,23 @@ const translations = {
     about: {
       title: "About Me",
       text:
-        "I'm Shaharul Islam, a web development student from Khulna. I enjoy turning small ideas into working web apps. I try to keep my code clean and simple so anyone can read it.",
+        "I'm Shaharul Islam, a web development student from Khulna. I'm learning Python, Django, React, JavaScript, PostgreSQL, HTML, CSS to build real-world web applications. I enjoy turning small ideas into working web apps. I try to keep my code clean and simple so anyone can read it.",
       infoTitle: "Profile Info",
       info: [
         ["Name", "Shaharul Islam"],
         ["Email", "sobuzytp@gmail.com"],
         ["Location", "Khulna, Bangladesh"],
-        ["Profession", "Web Developer"],
+        ["Profession", "Python & React Developer"],
         ["Languages", "Bangla, English"],
       ],
       eduTitle: "Education",
       education: [
-        { place: "Web Development Course (React.js)", detail: "Batch 10 — ongoing" },
-        { place: "Your college / university name", detail: "Your degree and passing year (edit here)" },
+        { place: "Web Development Course (Python, Django, React)", detail: "Batch 10 — ongoing" },
+        { place: "Ostad Platform", detail: "Ends December 2026" },
       ],
       goalTitle: "Career Goals",
       goal:
-        "To grow into a skilled Frontend/Full-stack developer who builds products that make people's daily work easier, while learning from a great team.",
+        "To grow into a skilled Python Developer, Django Developer, and React Developer who builds products that make people's daily work easier, while learning from a great team.",
     },
     skills: { title: "My Skills", subtitle: "Technologies I work with" },
     projects: {
