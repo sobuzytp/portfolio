@@ -20,15 +20,19 @@ const translations = {
       infoTitle: "প্রোফাইল তথ্য",
       info: [
         ["নাম", "শহরুল ইসলাম"],
+        ["ফোন", "01601642548"],
         ["ইমেইল", "sobuzytp@gmail.com"],
         ["অবস্থান", "খুলনা, বাংলাদেশ"],
         ["পেশা", "Python & React Developer"],
+        ["শিক্ষা", "North Western University (B.Sc. in CSE)"],
         ["ভাষা", "বাংলা, English"],
       ],
       eduTitle: "শিক্ষাগত যোগ্যতা",
       education: [
-        { place: "Web Development Course (Python, Django, React)", detail: "Batch 10 — চলমান" },
-        { place: "Ostad Platform", detail: "December 2026 পর্যন্ত চলবে" },
+        { place: "B.Sc. in CSE — North Western University", detail: "পাসের সম্ভাব্য বছর: ২০২৭" },
+        { place: "Web Development Course (Python, Django, React)", detail: "Ostad Platform — Batch 10 (December 2026)" },
+        { place: "Higher Secondary Certificate (HSC)", detail: "পাসের বছর: ২০২২" },
+        { place: "Secondary School Certificate (SSC)", detail: "পাসের বছর: ২০২০" },
       ],
       goalTitle: "ক্যারিয়ার লক্ষ্য",
       goal:
@@ -89,15 +93,19 @@ const translations = {
       infoTitle: "Profile Info",
       info: [
         ["Name", "Shaharul Islam"],
+        ["Phone", "01601642548"],
         ["Email", "sobuzytp@gmail.com"],
         ["Location", "Khulna, Bangladesh"],
         ["Profession", "Python & React Developer"],
+        ["Education", "North Western University (B.Sc. in CSE)"],
         ["Languages", "Bangla, English"],
       ],
       eduTitle: "Education",
       education: [
-        { place: "Web Development Course (Python, Django, React)", detail: "Batch 10 — ongoing" },
-        { place: "Ostad Platform", detail: "Ends December 2026" },
+        { place: "B.Sc. in CSE — North Western University", detail: "Expected Graduation: 2027" },
+        { place: "Web Development Course (Python, Django, React)", detail: "Ostad Platform — Batch 10 (Dec 2026)" },
+        { place: "Higher Secondary Certificate (HSC)", detail: "Passing Year: 2022" },
+        { place: "Secondary School Certificate (SSC)", detail: "Passing Year: 2020" },
       ],
       goalTitle: "Career Goals",
       goal:
