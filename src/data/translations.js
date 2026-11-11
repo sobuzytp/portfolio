@@ -43,10 +43,10 @@ const translations = {
       github: "GitHub",
       empty: "এই ফিল্টারে কোনো প্রজেক্ট নেই।",
       items: {
-        taskly: { title: "Taskly — টাস্ক ম্যানেজার", description: "টাস্ক যোগ, সম্পন্ন ও মুছে ফেলার অ্যাপ। ডেটা ব্রাউজারে সেভ থাকে।" },
-        weather: { title: "আবহাওয়া ড্যাশবোর্ড", description: "শহরের নাম লিখে বর্তমান আবহাওয়া ও ৫ দিনের পূর্বাভাস দেখুন।" },
-        landing: { title: "রেস্টুরেন্ট ল্যান্ডিং পেজ", description: "মোবাইল-ফার্স্ট, দ্রুত লোড হয় এমন একটি রেস্টুরেন্ট ওয়েবসাইট।" },
-        quiz: { title: "কুইজ গেম", description: "প্রশ্ন, টাইমার ও স্কোর বোর্ডসহ একটি ইন্টারঅ্যাকটিভ কুইজ অ্যাপ।" },
+        taskly: { title: "Taskly — Task Manager", description: "টাস্ক যোগ, সম্পন্ন ও মুছে ফেলার অ্যাপ। Django, PostgreSQL, React, REST API ব্যবহার করে।" },
+        "blood-sync": { title: "Blood Sync", description: "জরুরি রক্তের স্ট্যাটাস, দাতের তথ্য ও আবেদন দেখার ড্যাশবোর্ড। Django, PostgreSQL, React, REST API ব্যবহার করে।" },
+        "bank-management": { title: "Bank Management System", description: "ব্যাংকিং সিস্টেমের জন্য একটি মোবাইল-ফার্স্ট, দ্রুত লোড হয় এমন একটি ওয়েবসাইট। Django, PostgreSQL, React, HTML, CSS ব্যবহার করে।" },
+        "mini-ecommerce": { title: "Mini Ecommerce", description: "পণ্য, কার্ট ও পেমেন্ট ম্যানেজমেন্টের জন্য একটি সম্পূর্ণ Ecommerce অ্যাপ। Django, PostgreSQL, React, REST API ব্যবহার করে।" },
       },
     },
     contact: {
@@ -112,10 +112,10 @@ const translations = {
       github: "GitHub",
       empty: "No projects match this filter.",
       items: {
-        taskly: { title: "Taskly — Task Manager", description: "Add, complete and delete tasks. Your data stays saved in the browser." },
-        weather: { title: "Weather Dashboard", description: "Search any city to see current weather and a 5-day forecast." },
-        landing: { title: "Restaurant Landing Page", description: "A mobile-first restaurant website that loads fast." },
-        quiz: { title: "Quiz Game", description: "An interactive quiz app with questions, a timer and a score board." },
+        taskly: { title: "Taskly — Task Manager", description: "Add, complete and delete tasks. Built with Django REST API, React frontend, PostgreSQL." },
+        "blood-sync": { title: "Blood Sync", description: "Emergency blood status, donor information and applications dashboard. Built with Django REST API, React, PostgreSQL." },
+        "bank-management": { title: "Bank Management System", description: "A mobile-first, fast loading bank management system website. Built with Django, React, HTML, CSS, PostgreSQL." },
+        "mini-ecommerce": { title: "Mini Ecommerce", description: "Complete ecommerce application with products, cart and payment management. Built with Django REST API, React, PostgreSQL." },
       },
     },
     contact: {
